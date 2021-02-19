@@ -46,7 +46,7 @@
        "Class" : {
             "id": 8,
             "activityName": "Bible Study",
-            "isActivityChecked": false
+            "isActivityChecked": false,
             "lesson plan": [
                 {
                   "lessonId": 1,

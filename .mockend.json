@@ -41,31 +41,8 @@
             "activityName": "Prayer",
             "isActivityChecked": false
             
-        },
-        "Class" : {
-            "id": 8,
-            "activityName": "Bible Study",
-            "isActivityChecked": false,
-            "lesson plan": [
-                {
-                  "lessonId": 1,
-                  "lessonName": "Menor",
-                  "FinishingDate": "04-01-2021"
-                },
-                {
-                  "lessonId": 2,
-                  "lessonName": "Zemen",
-                  "FinishingDate": "05-01-2021"
-                },
-                {
-                  "lessonId": 3,
-                  "lessonName": "Betekerestian",
-                  "FinishingDate": "06-01-2021"
-                }
-            
-            ]
-            
         }
+        
            
     
     ]

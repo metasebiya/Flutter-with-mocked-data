@@ -41,9 +41,8 @@
             "activityName": "Prayer",
             "isActivityChecked": false
             
-        }
-    ],
-       "Class" : {
+        },
+        "Class" : {
             "id": 8,
             "activityName": "Bible Study",
             "isActivityChecked": false,
@@ -67,7 +66,10 @@
             ]
             
         }
-        
+           
+    
+    ]
+       
    
   
 }
